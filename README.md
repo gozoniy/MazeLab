@@ -17,7 +17,12 @@
 
 ## 📊 Примеры работы
 Пример сгенерированного лабиринта алгоритмом Северо-восточного смещения
-![Генерация]https://github.com/gozoniy/MazeLab/blob/aa17fccc478b2c2d364a256617bbc50c031fb16d/docs/Maze40.png
+
+![Генерация](https://github.com/gozoniy/MazeLab/blob/aa17fccc478b2c2d364a256617bbc50c031fb16d/docs/Maze40.png)
+
+Найденное решение и пройденные шаги
+
+![Решение](https://github.com/gozoniy/MazeLab/blob/74f7f6884ed1cc8beac609f7c240e2be32dc6aa9/docs/Maze40Solved.png)
 
 ## 🚀 Запуск
 
